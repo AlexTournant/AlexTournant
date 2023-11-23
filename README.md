@@ -16,5 +16,8 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competence
 - RayTracer
 - Dive'in
 - Morpion
-- JO Paris 2024-page web 
+- page web sur des sports avec la methode CRUD
 
+Si vous-voulez discuter au sujet d'un des projets ou en rapport avec l'informatique c'est ici ⬇️
+alex.tournant.pro@gmail.com
+https://www.linkedin.com/in/alex-tournant/
