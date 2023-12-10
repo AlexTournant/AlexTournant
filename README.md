@@ -9,13 +9,13 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competence
 - Base de données (SQL - PostgreSQL)
 
 ### Mes projets Personnels :
-- Taquin
+- Morpion
 - 2048
 - Portfolio
 ### Mes projets Universitaire :
 - RayTracer
 - Dive'in
-- Morpion
+- Taquin
 - page web sur des sports avec la methode CRUD
 
 Si vous-voulez discuter au sujet d'un des projets ou en rapport avec l'informatique c'est ici ⬇️   
