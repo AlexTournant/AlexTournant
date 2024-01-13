@@ -18,6 +18,7 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competence
 - Taquin
 - Page web sur des sports avec la methode CRUD
 - Projet Marathon Web
+- Jadex (site web représentant le pokedex)
 
 Si vous-voulez discuter au sujet d'un des projets ou en rapport avec l'informatique c'est ici ⬇️   
 alex.tournant.pro@gmail.com   
