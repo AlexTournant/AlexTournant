@@ -6,7 +6,7 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competence
 - Développement web (HTML - CSS - PHP - Laravel)  
 - Python (Flask)  
 - Java/JavaFX  
-- Base de données (SQL - PostgreSQL)
+- Base de données (SQL - PostgreSQL - SQLite)
 
 ### Mes projets Personnels :
 - Morpion
@@ -16,7 +16,8 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competence
 - RayTracer
 - Dive'in
 - Taquin
-- page web sur des sports avec la methode CRUD
+- Page web sur des sports avec la methode CRUD
+- Projet Marathon Web
 
 Si vous-voulez discuter au sujet d'un des projets ou en rapport avec l'informatique c'est ici ⬇️   
 alex.tournant.pro@gmail.com   
