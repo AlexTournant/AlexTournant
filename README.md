@@ -8,16 +8,16 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competence
 - Base de données ( SQL - PostgreSQL - SQLite )
 
 ### Mes projets Personnels :
+- Portfolio (  https://alextournant.github.io/portfolio/ )
 - Morpion
 - 2048
-- Portfolio (  https://alextournant.github.io/portfolio/ )
 ### Mes projets Universitaire :
+- Projet Marathon Web
 - RayTracer
+- Jadex (site web représentant le pokedex)
+- Page web sur des sports avec la methode CRUD
 - Dive'in
 - Taquin
-- Page web sur des sports avec la methode CRUD
-- Projet Marathon Web
-- Jadex (site web représentant le pokedex)
 
 Si vous-voulez discuter au sujet d'un des projets ou en rapport avec l'informatique c'est ici ⬇️   
 alex.tournant.pro@gmail.com   
