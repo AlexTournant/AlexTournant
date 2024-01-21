@@ -3,9 +3,8 @@ Je suis actuellement en 2eme année de BUT Informatique à l'IUT de Lens
 Je vais essayer de poster le plus de projet perso et universitaire ici 👀
 
 Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competences🧑‍💻en :  
-- Développement web ( HTML - CSS - PHP - Laravel - Angular )  
-- Python ( Flask )  
-- Java/JavaFX  
+- Développement web ( HTML - CSS - PHP - Laravel - Angular - Python/Flask )
+- Développement d'appplication ( Java/JavaFX - Python )
 - Base de données ( SQL - PostgreSQL - SQLite )
 
 ### Mes projets Personnels :
