@@ -17,7 +17,7 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des competence
 - Projet Marathon Web ( HistoryMaker )
 - RayTracer
 - Jadex (site web représentant le pokedex)
-- Page web sur des sports avec la methode CRUD avec fonctionnalités telles que la vérification par email ou même la gestion de rôle .
+- Page web sur des sports avec la methode CRUD avec des fonctionnalités telles que la vérification par email ou même la gestion de rôle .
 - Dive'in
 - Taquin
 
