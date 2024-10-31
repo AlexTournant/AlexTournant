@@ -1,7 +1,7 @@
 # Salut moi c'est Alex Tournant
 
-Je suis actuellement en 2ème année de BUT Informatique à l'IUT de Lens.  
-Je vais essayer de poster le plus de projets perso et universitaires ici 👀  
+Je suis actuellement en 3ème année de BUT Informatique à l'IUT de Lens.  
+Je vais essayer de poster le plus de projets perso et universitaires possible ici 👀  
 
 Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétences 🧑‍💻 en :
 
