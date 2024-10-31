@@ -5,9 +5,25 @@ Je vais essayer de poster le plus de projets perso et universitaires possible ic
 
 Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétences 🧑‍💻 en :
 
-- Développement web (HTML - CSS - PHP - Laravel - TypeScript - Angular - Flask)
-- Développement d'applications (Java/JavaFX - Python - Kotlin)
-- Base de données (SQL - PostgreSQL - SQLite - JDBC)
+- **Développement web et applications :**  
+  - Java (JavaFX, Scene Builder, Spring)  
+  - Python (Flask, FastAPI)  
+  - PHP (Laravel)  
+  - JavaScript (Angular, React)  
+
+- **Bases de données :**  
+  - SQL (PL/pgSQL, PostgreSQL)  
+  - NoSQL (MongoDB, Neo4j)  
+
+- **Outils :**  
+  - Eclipse, VS Code, suite JetBrains  
+  - Conteneurisation avec Docker  
+
+- **Modélisation :**  
+  - MERISE, UML  
+
+- **Versioning :**  
+  - Git  
 
 ### Expériences professionnelles :
 **Stage développeur full stack**  
