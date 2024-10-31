@@ -9,7 +9,7 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétenc
 - Développement d'applications (Java/JavaFX - Python - Kotlin)
 - Base de données (SQL - PostgreSQL - SQLite - JDBC)
 
-### Expériences professionnelles
+### Expériences professionnelles :
 **Stage développeur full stack**  
 *SI Avesnois LAB - Trélon | Avril à Juin 2024*  
 Mise en place d'un outil de supervision pour Syncthing (AngularJS, Python FastAPI, PostgreSQL, LDAP, Docker).
