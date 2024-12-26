@@ -9,7 +9,7 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétenc
 - **Java :** JavaFX, Scene Builder, Spring  
 - **Python :** Flask, FastAPI, StableDiffusion, RLCard  
 - **PHP :** Laravel  
-- **JavaScript :** Angular, React  
+- **JavaScript :** Angular, React, NextJS
 
 ### **Bases de données**  
 - **SQL :** PL/pgSQL, PostgreSQL  
