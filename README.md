@@ -17,7 +17,8 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétenc
 
 ### **Outils et technologies**  
 - **Environnements de développement :** Eclipse, VS Code, suite JetBrains  
-- **Conteneurisation :** Docker  
+- **Conteneurisation :** Docker
+- **Déploiement et orchestration :** Kubernetes, Nomad
 - **Versioning :** Git  
 
 ### **Modélisation et méthodologies**  
