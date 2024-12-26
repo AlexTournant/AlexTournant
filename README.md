@@ -27,7 +27,7 @@ Je vais essayer de poster le plus de projets perso et universitaires possible ic
 
 ---
 
-### **Expériences professionnelles**
+### **Mes expériences professionnelles**
 **Stage développeur full stack**  
 *SI Avesnois LAB - Trélon | Avril à Juin 2024*  
 Mise en place d'un outil de supervision pour Syncthing (Angular, Python FastAPI, PostgreSQL, LDAP, Docker, Git).
