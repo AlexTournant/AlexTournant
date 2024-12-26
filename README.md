@@ -25,14 +25,12 @@ Je vais essayer de poster le plus de projets perso et universitaires possible ic
 - MERISE  
 - UML
 
+---
 
 ## My GitHub Stats
 | Stats | Most Used Languages |
 |-------|----------------------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=AlexTournant&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTournant&layout=compact&theme=radical) |
-
-
----
 
 ### **Mes expériences professionnelles**
 **Stage développeur full stack**  
