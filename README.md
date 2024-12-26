@@ -25,6 +25,21 @@ Je vais essayer de poster le plus de projets perso et universitaires possible ic
 - MERISE  
 - UML
 
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexTournant&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTournant&layout=compact&theme=radical)
+
+![GitHub stars](https://img.shields.io/github/stars/AlexTournant?style=flat-square&color=blueviolet)
+![GitHub issues](https://img.shields.io/github/issues/AlexTournant?style=flat-square)
+
+## My GitHub Stats
+| Stats | Most Used Languages |
+|-------|----------------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=AlexTournant&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTournant&layout=compact&theme=radical) |
+
+
 ---
 
 ### **Mes expériences professionnelles**
