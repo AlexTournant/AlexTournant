@@ -5,25 +5,24 @@ Je vais essayer de poster le plus de projets perso et universitaires possible ic
 
 Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétences 🧑‍💻 en :
 
-- **Développement web et applications :**  
-  - Java (JavaFX, Scene Builder, Spring)  
-  - Python (Flask, FastAPI, StableDiffusion, RLCard)  
-  - PHP (Laravel)  
-  - JavaScript (Angular, React)  
+### **Développement web et applications**  
+- **Java :** JavaFX, Scene Builder, Spring  
+- **Python :** Flask, FastAPI, StableDiffusion, RLCard  
+- **PHP :** Laravel  
+- **JavaScript :** Angular, React  
 
-- **Bases de données :**  
-  - SQL (PL/pgSQL, PostgreSQL)  
-  - NoSQL (MongoDB, Neo4j)  
+### **Bases de données**  
+- **SQL :** PL/pgSQL, PostgreSQL  
+- **NoSQL :** MongoDB, Neo4j  
 
-- **Outils :**  
-  - Eclipse, VS Code, suite JetBrains  
-  - Conteneurisation avec Docker  
+### **Outils et technologies**  
+- **Environnements de développement :** Eclipse, VS Code, suite JetBrains  
+- **Conteneurisation :** Docker  
+- **Versioning :** Git  
 
-- **Modélisation :**  
-  - MERISE, UML  
-
-- **Versioning :**  
-  - Git  
+### **Modélisation et méthodologies**  
+- MERISE  
+- UML  
 
 ### Expériences professionnelles :
 **Stage développeur full stack**  
