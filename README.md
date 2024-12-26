@@ -28,7 +28,7 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétenc
 ### Expériences professionnelles :
 **Stage développeur full stack**  
 *SI Avesnois LAB - Trélon | Avril à Juin 2024*  
-Mise en place d'un outil de supervision pour Syncthing (AngularJS, Python FastAPI, PostgreSQL, LDAP, Docker).
+Mise en place d'un outil de supervision pour Syncthing (Angular, Python FastAPI, PostgreSQL, LDAP, Docker, Git).
 
 ### Mes projets Personnels :
 - [Portfolio](https://alextournant.github.io/portfolio/)
