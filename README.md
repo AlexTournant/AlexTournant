@@ -43,7 +43,7 @@ Mise en place d'un outil de supervision pour Syncthing (Angular, Python FastAPI,
 - Dive'in
 - Taquin
 - [UNO with AI agents](https://colab.research.google.com/drive/1GXfvFA_7nBMWKMvgM4qkZkfyAvHkIBYr?usp=sharing)
-- [Instruction-based Image Editing](https://colab.research.google.com/drive/1X0I4nN9201qPsfUCmEL71d0V5tjugdNi?usp=sharing)
+- [Instruction-based Image Editing AI](https://colab.research.google.com/drive/1X0I4nN9201qPsfUCmEL71d0V5tjugdNi?usp=sharing)
 
 Si vous voulez discuter au sujet d'un des projets ou en rapport avec l'informatique, c'est ici ⬇️  
 alex.tournant.pro@gmail.com  
