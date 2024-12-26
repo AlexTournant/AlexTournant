@@ -3,7 +3,7 @@
 Je suis actuellement en 3ème année de BUT Informatique à l'IUT de Lens.  
 Je vais essayer de poster le plus de projets perso et universitaires possible ici 👀  
 
-## **Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT les compétences suivantes 🧑‍💻** 
+## **Pour l'instant, j'ai pu acquérir durant mes années de BUT les compétences suivantes 🧑‍💻** 
 
 ### **Développement web et applications**  
 - **Java :** JavaFX, Scene Builder, Spring  
