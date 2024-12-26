@@ -42,6 +42,7 @@ Mise en place d'un outil de supervision pour Syncthing (AngularJS, Python FastAP
 - Page web sur des sports avec la méthode CRUD, avec des fonctionnalités telles que la vérification par email et la gestion de rôles
 - Dive'in
 - Taquin
+- [UNO with AI agents](https://colab.research.google.com/drive/1GXfvFA_7nBMWKMvgM4qkZkfyAvHkIBYr?usp=sharing)
 
 Si vous voulez discuter au sujet d'un des projets ou en rapport avec l'informatique, c'est ici ⬇️  
 alex.tournant.pro@gmail.com  
