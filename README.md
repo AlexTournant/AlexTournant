@@ -46,6 +46,6 @@ Mise en place d'un outil de supervision pour Syncthing (Angular, Python FastAPI,
 - [Instruction-based Image Editing AI](https://colab.research.google.com/drive/1X0I4nN9201qPsfUCmEL71d0V5tjugdNi?usp=sharing)
 - NeverLonely (Application de rencontre événementielle)
 
-**Si vous voulez discuter au sujet d'un des projets ou en rapport avec l'informatique, c'est ici ⬇️ **
+**Si vous voulez discuter au sujet d'un des projets ou en rapport avec l'informatique, c'est ici** ⬇️
 alex.tournant.pro@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/alex-tournant/)
