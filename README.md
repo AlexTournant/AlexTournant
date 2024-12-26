@@ -25,17 +25,17 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétenc
 - MERISE  
 - UML  
 
-### Expériences professionnelles :
+### **Expériences professionnelles**
 **Stage développeur full stack**  
 *SI Avesnois LAB - Trélon | Avril à Juin 2024*  
 Mise en place d'un outil de supervision pour Syncthing (Angular, Python FastAPI, PostgreSQL, LDAP, Docker, Git).
 
-### Mes projets Personnels :
+### **Mes projets Personnels**
 - [Portfolio](https://alextournant.github.io/portfolio/)
 - [Eco Portofolio](https://eco-portfolio-three.vercel.app/)
 - [Jeux Internet](https://alextournant.github.io/jeuxInternet/)
 
-### Mes projets Universitaires :
+### **Mes projets Universitaires**
 - Projet Marathon Web (HistoryMaker)
 - RayTracer
 - Jadex (site web représentant un pokedex)
@@ -46,6 +46,6 @@ Mise en place d'un outil de supervision pour Syncthing (Angular, Python FastAPI,
 - [Instruction-based Image Editing AI](https://colab.research.google.com/drive/1X0I4nN9201qPsfUCmEL71d0V5tjugdNi?usp=sharing)
 - NeverLonely (Application de rencontre événementielle)
 
-Si vous voulez discuter au sujet d'un des projets ou en rapport avec l'informatique, c'est ici ⬇️  
+**Si vous voulez discuter au sujet d'un des projets ou en rapport avec l'informatique, c'est ici ⬇️ **
 alex.tournant.pro@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/alex-tournant/)
