@@ -23,7 +23,9 @@ Je vais essayer de poster le plus de projets perso et universitaires possible ic
 
 ### **Modélisation et méthodologies**  
 - MERISE  
-- UML  
+- UML
+
+---
 
 ### **Expériences professionnelles**
 **Stage développeur full stack**  
