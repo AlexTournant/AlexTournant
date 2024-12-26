@@ -7,7 +7,7 @@ Pour l'instant, j'ai pu acquérir pendant ces deux années de BUT des compétenc
 
 - **Développement web et applications :**  
   - Java (JavaFX, Scene Builder, Spring)  
-  - Python (Flask, FastAPI, AI)  
+  - Python (Flask, FastAPI, StableDiffusion, RLCard)  
   - PHP (Laravel)  
   - JavaScript (Angular, React)  
 
