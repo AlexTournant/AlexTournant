@@ -35,7 +35,9 @@ Je vais essayer de poster le plus de projets perso et universitaires possible ic
 ### **Mes expériences professionnelles**
 **Stage développeur full stack**  
 *SI Avesnois LAB - Trélon | Avril à Juin 2024*  
-Mise en place d'un outil de supervision pour Syncthing (Angular, Python FastAPI, PostgreSQL, LDAP, Docker, Git).
+Développement autonome d’une application de supervision pour Syncthing chez SI Avesnois Lab, incluant une API en Python,
+un front-end Angular et une base de données PostgreSQL. Conteneurisation avec Docker et orchestration avec Kubernetes,
+avec l’accompagnement de mon tuteur pour mieux comprendre le déploiement et la structure des fichiers.
 
 ### **Mes projets Personnels**
 - [Portfolio](https://alextournant.github.io/portfolio/)
