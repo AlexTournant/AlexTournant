@@ -35,9 +35,26 @@ J’utilise ce GitHub pour partager mes **projets personnels et universitaires**
 ---
 
 ### **Expériences professionnelles**
-**Stage développeur full stack**  
-*SI Avesnois LAB - Trélon | Avril à Juin 2024*  
-Développement d’une application de supervision pour Syncthing : **API en Python**, front-end **Angular**, base de données **PostgreSQL**, conteneurisation **Docker**, orchestration **Kubernetes**.
+
+**Développeur full stack – Infotel Conseil Nord**  
+*Lille | Mars à Juillet 2025*  
+Développement full-stack de l’application web **MORSE** :  
+- Front-end en **React/Redux**  
+- API **Java Spring Boot**  
+- Base de données **PostgreSQL**  
+- Module éditorial et authentification sécurisée (**Azure AD, MSAL, JWT**)  
+- Mise en place de **tests automatisés** et d’une **CI/CD sur Azure DevOps**  
+- Accompagnement sur les aspects **DevOps et sécurité applicative**
+
+---
+
+**Stage développeur full stack – SI Avesnois LAB**  
+*Trélon | Avril à Juin 2024*  
+Conception d’une application de supervision pour **Syncthing** :  
+- API en **Python**  
+- Front-end **Angular**  
+- Base de données **PostgreSQL**  
+- **Conteneurisation avec Docker** et **orchestration Kubernetes**  
 
 ---
 
